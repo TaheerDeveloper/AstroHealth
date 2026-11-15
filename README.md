@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AstroHealth — Intelligent Health Monitoring Beyond Earth
 
 > **NASA Space Apps Challenge 2026 — Challenge 5:** *"Create Health Monitoring Software for Astronauts on Space Missions"*  
@@ -156,3 +157,7 @@ Copy `.env.example` to `backend/.env` if you wish to connect to a local or remot
 1. **Simulated Demonstration Crew Telemetry:** Because real astronaut health records are confidential medical data, all crew vital signs, sleep logs, wellbeing check-ins, and radiation entries are simulated (`SIMULATED`) or manually entered (`MANUAL`) for demonstration purposes.
 2. **Non-Clinical Educational Prototype:** Reference ranges shown in charts are illustrative only. AstroHealth is not certified for clinical diagnosis or medical decision-making.
 3. **Rule-Based AI Assistant by Default:** Out-of-the-box, the AI Health Assistant runs a deterministic local rule-based engine (`RULE_BASED_LOCAL`) so it works reliably without requiring paid third-party LLM API keys.
+=======
+# AstroHealth
+Our mission  To empower astronauts to monitor their health, understand physiological changes, identify potential health risks, and make informed decisions during space missions.
+>>>>>>> b07e39c02a13a2810d208a83c3096d13fdbe02b8
