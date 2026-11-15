@@ -88,12 +88,12 @@ const DEFAULT_API_BASE = "http://127.0.0.1:8000";
 const navigation = [
   { name: "Overview", icon: Home },
   { name: "Astronauts", icon: Users },
-  { name: "Vital Signs", icon: HeartPulse },
-  { name: "Sleep Monitor", icon: Moon },
-  { name: "Wellbeing", icon: Brain },
-  { name: "Radiation", icon: Radiation },
+  // { name: "Vital Signs", icon: HeartPulse },
+  // { name: "Sleep Monitor", icon: Moon },
+  // { name: "Wellbeing", icon: Brain },
+  // { name: "Radiation", icon: Radiation },
   { name: "AI Health Assistant", icon: Sparkles },
-  { name: "NASA Research", icon: Database },
+  // { name: "NASA Research", icon: Database },
   { name: "Notifications", icon: Bell },
 ];
 
